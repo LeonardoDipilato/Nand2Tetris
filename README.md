@@ -1,4 +1,4 @@
-# Nand2Tetris-Part1
+# Nand2Tetris
 This is my personal take on the [nand2tetris course](https://www.coursera.org/learn/build-a-computer).
 
 This repository is hosted on GitHub for backup purposes, as such it's not well documented nor curated at all.
